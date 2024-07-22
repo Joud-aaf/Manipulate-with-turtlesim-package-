@@ -39,8 +39,14 @@ Left arrow: Turn left
 Right arrow: Turn right
 
 
+## List all the nodes that are currently running in ROS : rosnode list
 
-#To list active topics: rostopic list
+
+
+<img width="169" alt="image" src="https://github.com/user-attachments/assets/b56182ef-dbe2-436b-9e83-0d7fb53b865f">
+
+
+## To list active topics: rostopic list
 
 <img width="229" alt="image" src="https://github.com/user-attachments/assets/4acde842-320f-4287-bce6-643c516736c7">
 
